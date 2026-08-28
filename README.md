@@ -10,6 +10,9 @@
 ---
 
 ## 🌟 Demo Simulation
+<img width="800" height="512" alt="AITrafficV25-FinalFixedFlowATCS2026-08-2818-29-49-ezgif com-optimize" src="https://github.com/user-attachments/assets/8ce62755-8b82-4ee1-9b20-9208555c6729" />
+
+
 
 ![Demo Simulation](demo.gif)
 
